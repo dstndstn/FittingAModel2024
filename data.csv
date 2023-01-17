@@ -1,4 +1,4 @@
-# row,x,y,sigma_y,sigma_x,rho_xy
+row,x,y,sigma_y,sigma_x,rho_xy
 1,201,592,61,9,-0.84
 2,244,401,25,4,0.31
 3,47,583,38,11,0.64
